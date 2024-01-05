@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Gayathiri Jeyananthan
 - 👀 I’m interested in Explaining IT Related and personal skill development to others
 - 🌱 I’m currently learning PHP
-- 
 - 📫 How to reach me , You can reach me Via my email => shangayu8@gmail.com
 
 <!---
